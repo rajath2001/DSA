@@ -1,4 +1,5 @@
 // string matching (robin-karp algo)
+// requires two text file pattern and smallpat
 
 #include<stdio.h>
 #include<string.h>
